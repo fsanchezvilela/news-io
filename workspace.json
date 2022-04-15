@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "news-io-app": "apps/news-io-app",
+    "news-io-app-e2e": "apps/news-io-app-e2e"
+  }
+}
